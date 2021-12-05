@@ -6,7 +6,7 @@ In the first part of this homework we implemente a simplified version of Shazam 
 
 In the second part of the homework we play with a dataset gathering songs from the International Society for Music Information Retrieval Conference. The tracks (songs) include much information. We focus on the **track information**, **features** (extracted with librosa library from Python) and **audio variables** provided by Echonest (now Spotify). The final goal is to group songs into similar genres.
 
-Ih this repository there is only one file, `ADM-HM4.ipynb`, that contains all the runned cells and the relative outputs for each request and all the functions that we have implemented.
+Ih this repository there is only one file, `ADM-HM04.ipynb`, that contains all the runned cells and the relative outputs for each request and all the functions that we have implemented.
 
 
 
